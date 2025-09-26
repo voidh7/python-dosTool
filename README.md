@@ -2,7 +2,5 @@
 
 
 # python-dosTool
-
-
-
-Tool para fazer ataques Dos feito em python
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
+este e um Tool para fazer ataques Dos/Ddos 
