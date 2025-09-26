@@ -2,9 +2,9 @@ from setuptools import setup, find_packages
 
 setup(
     name="sherma-ddos-tool",
-    version="0.1.0",
+    version="1.0.0",
     description="Ferramenta educativa para testar requisições em servidores locais (uso autorizado apenas).",
-    author="Seu Nome",
+    author="vøidh7",
     packages=find_packages(),
     install_requires=[
         "requests>=2.31",
@@ -15,4 +15,4 @@ setup(
             "sherma-tool = sherma.__main__:main"
         ]
     }
-name="sherma-tool"
+name="sherma-Ddos-tool"
