@@ -36,3 +36,5 @@ python3 sherma.py <url> -v -t 10
 
 · -v - Modo verboso
 · -t - Define o número de threads
+
+⚠️  USE APENAS PARA FINS ÉTICOS E LEGAIS!
