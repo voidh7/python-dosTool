@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name="sherma-ddos-tool",
     version="1.0.0",
-    description="Ferramenta educativa para testar requisições em servidores locais (uso autorizado apenas).",
+    description="Ferramenta para ataques dos/ddos.",
     author="vøidh7",
     packages=find_packages(),
     install_requires=[
