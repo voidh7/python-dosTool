@@ -15,7 +15,7 @@ Ferramenta para realizar ataques DoS/DDoS.
 
 1. #### Clone o repositório:
 ```bash
-git clone url && cd sherma
+git clone https://github.com/voidh7/sherma-ddos-tool && cd sherma
 ```
 
 1.#### Instale as dependências:
